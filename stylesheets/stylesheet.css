@@ -313,7 +313,7 @@ Full-Width Styles
 }
 
 #head{
-  position: relative;
+  position: absolute;
   top:0;
   left:250px;
 }
