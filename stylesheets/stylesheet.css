@@ -292,6 +292,10 @@ Full-Width Styles
   background: linear-gradient(top, #373737, #212121);
 }
 
+#resume{
+padding: 15px 10px 10px;
+}
+
 #header_wrap .inner {
   padding: 15px 10px 10px;
 }
