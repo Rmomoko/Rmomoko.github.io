@@ -313,9 +313,9 @@ Full-Width Styles
 }
 
 #head{
-  position: absolute;
+  position: relative;
   top:0;
-  left:300px;
+  left:250px;
 }
 
 #header_wrap {
