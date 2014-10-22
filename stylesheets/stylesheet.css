@@ -294,6 +294,8 @@ Full-Width Styles
 
 #resume{
 position: relative;
+  min-width: 320px;
+  max-width: 1000px;
 }
 
 #header_wrap .inner {
@@ -387,7 +389,7 @@ Small Device Styles
 
   .inner {
     min-width: 320px;
-    max-width: 800px;
+    max-width: 1000px;
   }
 
   #project_title {
