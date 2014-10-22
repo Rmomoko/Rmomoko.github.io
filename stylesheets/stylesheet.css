@@ -293,7 +293,7 @@ Full-Width Styles
 }
 
 #resume{
-
+position: relative;
 }
 
 #header_wrap .inner {
