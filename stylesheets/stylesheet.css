@@ -19,7 +19,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+figure, figcaption, , header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -136,7 +136,7 @@ strong {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 739px;
+  max-width: 800px;
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
